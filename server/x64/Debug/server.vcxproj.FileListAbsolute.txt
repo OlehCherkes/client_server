@@ -1,0 +1,2 @@
+C:\projects\test\server\server\x64\Debug\server.exe
+C:\projects\test\client_server\server\x64\Debug\server.exe

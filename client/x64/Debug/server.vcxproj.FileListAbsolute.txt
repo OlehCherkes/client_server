@@ -1,0 +1,1 @@
+C:\projects\test\server\x64\Debug\server.exe
